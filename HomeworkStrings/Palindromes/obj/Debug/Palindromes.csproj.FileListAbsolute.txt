@@ -1,0 +1,6 @@
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Palindromes\bin\Debug\Palindromes.exe.config
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Palindromes\bin\Debug\Palindromes.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Palindromes\bin\Debug\Palindromes.pdb
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Palindromes\obj\Debug\Palindromes.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Palindromes\obj\Debug\Palindromes.pdb

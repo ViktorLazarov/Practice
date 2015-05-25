@@ -1,0 +1,9 @@
+D:\Praktika\HomeworkFilesAndStreams\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+D:\Praktika\HomeworkFilesAndStreams\3. Word Count\bin\Debug\_3.Word_Count.exe
+D:\Praktika\HomeworkFilesAndStreams\3. Word Count\bin\Debug\_3.Word_Count.pdb
+D:\Praktika\HomeworkFilesAndStreams\3. Word Count\obj\Debug\3. Word Count.csprojResolveAssemblyReference.cache
+D:\Praktika\HomeworkFilesAndStreams\3. Word Count\obj\Debug\_3.Word_Count.exe
+D:\Praktika\HomeworkFilesAndStreams\3. Word Count\obj\Debug\_3.Word_Count.pdb
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\3. Word Count\obj\Debug\_3.Word_Count.exe
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\3. Word Count\obj\Debug\_3.Word_Count.pdb

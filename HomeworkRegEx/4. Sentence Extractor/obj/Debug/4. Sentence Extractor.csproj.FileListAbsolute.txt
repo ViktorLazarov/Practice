@@ -1,0 +1,6 @@
+D:\SoftUni\Praktika\HomeworkRegEx\4. Sentence Extractor\bin\Debug\_4.Sentence_Extractor.exe.config
+D:\SoftUni\Praktika\HomeworkRegEx\4. Sentence Extractor\obj\Debug\4. Sentence Extractor.csprojResolveAssemblyReference.cache
+D:\SoftUni\Praktika\HomeworkRegEx\4. Sentence Extractor\bin\Debug\_4.Sentence_Extractor.exe
+D:\SoftUni\Praktika\HomeworkRegEx\4. Sentence Extractor\bin\Debug\_4.Sentence_Extractor.pdb
+D:\SoftUni\Praktika\HomeworkRegEx\4. Sentence Extractor\obj\Debug\_4.Sentence_Extractor.exe
+D:\SoftUni\Praktika\HomeworkRegEx\4. Sentence Extractor\obj\Debug\_4.Sentence_Extractor.pdb

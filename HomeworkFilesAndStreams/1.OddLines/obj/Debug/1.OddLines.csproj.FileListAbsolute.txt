@@ -1,0 +1,8 @@
+D:\Praktika\HomeworkFilesAndStreams\1.OddLines\bin\Debug\1.OddLines.exe.config
+D:\Praktika\HomeworkFilesAndStreams\1.OddLines\bin\Debug\1.OddLines.exe
+D:\Praktika\HomeworkFilesAndStreams\1.OddLines\bin\Debug\1.OddLines.pdb
+D:\Praktika\HomeworkFilesAndStreams\1.OddLines\obj\Debug\1.OddLines.exe
+D:\Praktika\HomeworkFilesAndStreams\1.OddLines\obj\Debug\1.OddLines.pdb
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\1.OddLines\bin\Debug\1.OddLines.exe.config
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\1.OddLines\obj\Debug\1.OddLines.exe
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\1.OddLines\obj\Debug\1.OddLines.pdb

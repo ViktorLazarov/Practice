@@ -1,0 +1,6 @@
+D:\SoftUni\Praktika\HomeworkRegEx\2. Replace  tag\bin\Debug\_2.Replace__tag.exe.config
+D:\SoftUni\Praktika\HomeworkRegEx\2. Replace  tag\bin\Debug\_2.Replace__tag.exe
+D:\SoftUni\Praktika\HomeworkRegEx\2. Replace  tag\bin\Debug\_2.Replace__tag.pdb
+D:\SoftUni\Praktika\HomeworkRegEx\2. Replace  tag\obj\Debug\2. Replace  tag.csprojResolveAssemblyReference.cache
+D:\SoftUni\Praktika\HomeworkRegEx\2. Replace  tag\obj\Debug\_2.Replace__tag.exe
+D:\SoftUni\Praktika\HomeworkRegEx\2. Replace  tag\obj\Debug\_2.Replace__tag.pdb

@@ -1,0 +1,9 @@
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\ReverseString\bin\Debug\ReverseString.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\ReverseString\bin\Debug\ReverseString.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\ReverseString\bin\Debug\ReverseString.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\ReverseString\obj\Debug\ReverseString.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Solution1\ReverseString\obj\Debug\ReverseString.pdb
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\ReverseString\bin\Debug\ReverseString.exe.config
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\ReverseString\obj\Debug\ReverseString.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\ReverseString\obj\Debug\ReverseString.pdb

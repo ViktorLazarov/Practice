@@ -1,0 +1,6 @@
+D:\SoftUni\Domashno\HomeworkFunctionalPrograming\HomeworkStudents\bin\Debug\HomeworkStudents.exe.config
+D:\SoftUni\Domashno\HomeworkFunctionalPrograming\HomeworkStudents\bin\Debug\HomeworkStudents.exe
+D:\SoftUni\Domashno\HomeworkFunctionalPrograming\HomeworkStudents\bin\Debug\HomeworkStudents.pdb
+D:\SoftUni\Domashno\HomeworkFunctionalPrograming\HomeworkStudents\obj\Debug\HomeworkStudents.csprojResolveAssemblyReference.cache
+D:\SoftUni\Domashno\HomeworkFunctionalPrograming\HomeworkStudents\obj\Debug\HomeworkStudents.exe
+D:\SoftUni\Domashno\HomeworkFunctionalPrograming\HomeworkStudents\obj\Debug\HomeworkStudents.pdb

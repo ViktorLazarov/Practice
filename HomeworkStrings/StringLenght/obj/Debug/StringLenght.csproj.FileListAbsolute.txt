@@ -1,0 +1,11 @@
+c:\Users\viktor\documents\visual studio 2013\Projects\Solution1\StringLenght\bin\Debug\StringLenght.exe.config
+c:\Users\viktor\documents\visual studio 2013\Projects\Solution1\StringLenght\bin\Debug\StringLenght.exe
+c:\Users\viktor\documents\visual studio 2013\Projects\Solution1\StringLenght\bin\Debug\StringLenght.pdb
+c:\Users\viktor\documents\visual studio 2013\Projects\Solution1\StringLenght\obj\Debug\StringLenght.exe
+c:\Users\viktor\documents\visual studio 2013\Projects\Solution1\StringLenght\obj\Debug\StringLenght.pdb
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\StringLenght\bin\Debug\StringLenght.exe.config
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\StringLenght\obj\Debug\StringLenght.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\StringLenght\obj\Debug\StringLenght.pdb
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\StringLenght\bin\Debug\StringLenght.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\StringLenght\bin\Debug\StringLenght.pdb
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\StringLenght\obj\Debug\StringLenght.csprojResolveAssemblyReference.cache

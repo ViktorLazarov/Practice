@@ -1,0 +1,12 @@
+D:\Praktika\HomeworkFilesAndStreams\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe.config
+D:\Praktika\HomeworkFilesAndStreams\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe
+D:\Praktika\HomeworkFilesAndStreams\2. Line Numbers\bin\Debug\_2.Line_Numbers.pdb
+D:\Praktika\HomeworkFilesAndStreams\2. Line Numbers\obj\Debug\2. Line Numbers.csprojResolveAssemblyReference.cache
+D:\Praktika\HomeworkFilesAndStreams\2. Line Numbers\obj\Debug\_2.Line_Numbers.exe
+D:\Praktika\HomeworkFilesAndStreams\2. Line Numbers\obj\Debug\_2.Line_Numbers.pdb
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe.config
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\2. Line Numbers\obj\Debug\_2.Line_Numbers.exe
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\2. Line Numbers\obj\Debug\_2.Line_Numbers.pdb
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\2. Line Numbers\bin\Debug\_2.Line_Numbers.pdb
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\2. Line Numbers\obj\Debug\2. Line Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\TextFilter\bin\Debug\TextFilter.exe.config
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\TextFilter\bin\Debug\TextFilter.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\TextFilter\bin\Debug\TextFilter.pdb
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\TextFilter\obj\Debug\TextFilter.csprojResolveAssemblyReference.cache
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\TextFilter\obj\Debug\TextFilter.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\TextFilter\obj\Debug\TextFilter.pdb

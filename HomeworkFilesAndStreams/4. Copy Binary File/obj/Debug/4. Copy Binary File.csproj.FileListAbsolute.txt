@@ -1,0 +1,9 @@
+D:\Praktika\HomeworkFilesAndStreams\4. Copy Binary File\bin\Debug\_4.Copy_Binary_File.exe.config
+D:\Praktika\HomeworkFilesAndStreams\4. Copy Binary File\bin\Debug\_4.Copy_Binary_File.exe
+D:\Praktika\HomeworkFilesAndStreams\4. Copy Binary File\bin\Debug\_4.Copy_Binary_File.pdb
+D:\Praktika\HomeworkFilesAndStreams\4. Copy Binary File\obj\Debug\4. Copy Binary File.csprojResolveAssemblyReference.cache
+D:\Praktika\HomeworkFilesAndStreams\4. Copy Binary File\obj\Debug\_4.Copy_Binary_File.exe
+D:\Praktika\HomeworkFilesAndStreams\4. Copy Binary File\obj\Debug\_4.Copy_Binary_File.pdb
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\4. Copy Binary File\bin\Debug\_4.Copy_Binary_File.exe.config
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\4. Copy Binary File\obj\Debug\_4.Copy_Binary_File.exe
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\4. Copy Binary File\obj\Debug\_4.Copy_Binary_File.pdb

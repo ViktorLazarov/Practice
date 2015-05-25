@@ -1,0 +1,5 @@
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Unicode Characters\bin\Debug\Unicode Characters.exe.config
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Unicode Characters\bin\Debug\Unicode Characters.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Unicode Characters\bin\Debug\Unicode Characters.pdb
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Unicode Characters\obj\Debug\Unicode Characters.exe
+D:\InfoStart\Praktika\HomeworkStrings\HomeworkStrings\Unicode Characters\obj\Debug\Unicode Characters.pdb

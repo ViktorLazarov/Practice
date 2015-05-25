@@ -1,0 +1,34 @@
+1 using System;
+2 using System.Collections.Generic;
+3 using System.Linq;
+4 using System.Text;
+5 using System.Threading.Tasks;
+6 using System.IO;
+7 class LineNumbers
+8 {
+9     static void Main()
+10     {
+11         StreamReader reader = new StreamReader("../../Line Numbers.cs");
+12         StreamWriter writer = new StreamWriter("../../result-text.txt");
+13 
+14         using (reader)
+15         {
+16             using (writer)
+17             {
+18                 int lineCount = 1;
+19                 while (true)
+20                 {
+21                     string line = reader.ReadLine();
+22                     if (line == null)
+23                     {
+24                         break;
+25                     }
+26                     writer.WriteLine("{0} {1}", lineCount, line);
+27                     lineCount++;
+28                 }
+29 
+30             }
+31         }
+32     }
+33 }
+34 

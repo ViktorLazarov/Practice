@@ -1,0 +1,6 @@
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\5.Slicing Files\bin\Debug\5.Slicing Files.exe.config
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\5.Slicing Files\bin\Debug\5.Slicing Files.exe
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\5.Slicing Files\bin\Debug\5.Slicing Files.pdb
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\5.Slicing Files\obj\Debug\5.Slicing Files.csprojResolveAssemblyReference.cache
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\5.Slicing Files\obj\Debug\5.Slicing Files.exe
+D:\SoftUni\Domashno\HomeworkFilesAndStreams\HomeworkFilesAndStreams\5.Slicing Files\obj\Debug\5.Slicing Files.pdb
